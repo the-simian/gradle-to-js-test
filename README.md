@@ -36,3 +36,6 @@ working output:
     '\r': ''
 }
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/the-simian/gradle-to-js-test.svg)](https://greenkeeper.io/)
