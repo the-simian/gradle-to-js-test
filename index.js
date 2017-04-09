@@ -7,7 +7,7 @@ g2js
   .then(function(representation) {
 
 
-    console.log(representation);
+    console.log(JSON.stringify(representation));
 
 
     console.log('BROKEN------------------------')
@@ -16,7 +16,7 @@ g2js
       .then(function(representation) {
 
 
-        console.log(representation);
+        console.log(JSON.stringify(representation));
       });
 
   });
